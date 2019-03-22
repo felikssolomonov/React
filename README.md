@@ -4,7 +4,7 @@ https://codedzen.ru/react-urok-1-osnovi/
 
 ## License
 
-#### [MIT](/LICENSE)
+#### [MIT](.LICENSE)
 
 [npm]: https://img.shields.io/npm/v/webpack-dev-server.svg
 [npm-url]: https://npmjs.com/package/webpack-dev-server
