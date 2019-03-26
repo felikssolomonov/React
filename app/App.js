@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {render} from 'react-dom';
 import ContactsApp from './ContactApp';
-import KanbanBoard from './KanbanBoard';
+import KanbanBoardContainer from './KanbanBoardContainer';
 let cardsList = [
     {
         id: 1,
@@ -24,4 +24,4 @@ let cardsList = [
         ]
     }
 ];
-render(<KanbanBoard cards={cardsList} />, document.getElementById('root'));
+render(<KanbanBoardContainer />, document.getElementById('root'));
